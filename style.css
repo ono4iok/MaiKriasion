@@ -224,7 +224,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/20190321_135304.jpg);
+    background-image: url(20190321_135304.jpg);
     height: auto;
     background-size: 100%;
 }
@@ -459,7 +459,7 @@ button {
     width: 100%;
     float: left;
     position: relative; /* Ensure the pseudo-element is positioned relative to this section */
-    background-image: url(../images/IMG_5254.JPG);
+    background-image: url(IMG_5254.JPG);
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -580,7 +580,7 @@ button {
 .events_bg {
     width: 100%;
     float: left;
-    background-image: url(../images/IMG\ WM-128.jpg);
+    background-image: url(IMG\ WM-128.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     padding: 160px 0px;
@@ -652,7 +652,7 @@ button {
 .contact_section {
     width: 100%;
     float: left;
-    background-image: url(../images/contact-bg.png);
+    background-image: url(contact-bg.png);
     height: auto;
     background-repeat: no-repeat;
     background-size: cover;
